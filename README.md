@@ -22,8 +22,8 @@ I'm 19 years old and I'm a systems analysis and development student at the Unive
   
   <div>
       <a href="https://www.linkedin.com/in/jess%C3%A9-alves-900a991a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-      <a href = "jess.alves1873@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-       <a href="https://instagram.com/jessealves_10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank"></a>
+      <a href = "mailto:jess.alves1873@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+       <a href="https://instagram.com/jessealves_10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
  
   
